@@ -1,0 +1,49 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Generated files
+/layout/export/*.pdf
+/layout/export/*.docx
+/layout/export/*.odt
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Local build folders
+/build/
+dist/
+
+# Markdown / writing helpers
+.markdownlint.json
+.cache/
+
+# LibreOffice / Office temporary files
+.~lock.*
+*.~lock.*
